@@ -1,0 +1,12 @@
+{
+  "usuarios": [
+    {
+      "codigo": "iris2026",
+      "nome": "Banes Junior"
+    },
+    {
+      "codigo": "teste123",
+      "nome": "Convidado"
+    }
+  ]
+}
