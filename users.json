@@ -1,12 +1,34 @@
 {
   "usuarios": [
     {
-      "codigo": "iris2026",
-      "nome": "Banes Junior"
+      "codigo": "folha-galho-vento"
     },
     {
-      "codigo": "teste123",
-      "nome": "Convidado"
+      "codigo": "aguia-farol-semente"
+    },
+    {
+      "codigo": "chuva-ipê-onca"
+    },
+    {
+      "codigo": "capim-folha-prata"
+    },
+    {
+      "codigo": "jatoba-cedro-raiz"
+    },
+    {
+      "codigo": "veado-flor-lago"
+    },
+    {
+      "codigo": "vale-pedra-morro"
+    },
+    {
+      "codigo": "gelo-pedra-fruto"
+    },
+    {
+      "codigo": "ipê-lago-rio"
+    },
+    {
+      "codigo": "chama-casca-onca"
     }
   ]
 }
